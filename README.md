@@ -17,7 +17,7 @@ This repository has the goal to share technology books by women, black and LGBT 
 - "CSS Secrets" [Lea Verou](http://lea.verou.me/)
 - "The Quick Python Book" [Naomi Ceder](https://twitter.com/naomiceder?lang=en)
 - "The Robotics Primer" [Maja J. Mataric](http://www-robotics.usc.edu/~maja/)
-- "Designing Interfaces" Jenifer Tidwell
+- "Designing Interfaces" [Jenifer Tidwell](https://jtidwell.net/)
 - "Designing for Performance" [Lara Callender Hogan](https://larahogan.me/)
 - "Distributed algorithms" [Nancy A. Lynch](https://people.csail.mit.edu/lynch/)
 - "Program Development in Java: Abstraction, Specification, and Object-Oriented Design" [Barbara Liskov](https://www.thriftbooks.com/a/barbara-liskov/230956/)
