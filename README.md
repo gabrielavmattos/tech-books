@@ -23,7 +23,7 @@ This repository has the goal to share technology books by women, black and LGBT 
 - "Program Development in Java: Abstraction, Specification, and Object-Oriented Design" [Barbara Liskov](https://www.thriftbooks.com/a/barbara-liskov/230956/)
 - "Abstraction and Specification in Program Development" [Barbara Liskov](https://www.thriftbooks.com/a/barbara-liskov/230956/)
 - "Clu: Reference Manual" [Barbara Liskov](https://www.thriftbooks.com/a/barbara-liskov/230956/)
-- "The Smart Girl's Guide to Privacy" [Violet Blue]
+- "The Smart Girl's Guide to Privacy" Violet Blue
 
 
 
